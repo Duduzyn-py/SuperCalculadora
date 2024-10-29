@@ -1,0 +1,15 @@
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.exe
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.deps.json
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.runtimeconfig.json
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.dll
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.pdb
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.csproj.AssemblyReference.cache
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.AssemblyInfoInputs.cache
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.AssemblyInfo.cs
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.dll
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\refint\SuperCalculadora.dll
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.pdb
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.genruntimeconfig.cache
+C:\Users\denner.borba\Documents\C Sharp Projects\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\ref\SuperCalculadora.dll
