@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace SuperCalculadora
 {
+    public interface IOperacao
+    {
+        void Adicao();
+        void Subtracao();
+        void Divisao();
+        void Multiplicacao();
+    }
 
     public class Somar
     {
@@ -15,14 +22,15 @@ namespace SuperCalculadora
         }
     }
 
-
-
     public class Executar
     {
         public static void Executor()
         {
             var soma = new Somar();
             Console.WriteLine(soma.Soma(20, 30));
+
+            //var subtrair = new Subtrair();
+            //Console.WriteLine(subtrair.Subtracao(100, 30));
         }
     }
 }
