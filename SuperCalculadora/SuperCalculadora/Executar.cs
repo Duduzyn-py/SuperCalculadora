@@ -49,7 +49,6 @@ namespace SuperCalculadora
                             break;
                         case 2:
                             var resultadoSubtracao = new Subtrair();
-                            Console.WriteLine("Opção Subtração!");
                             Console.WriteLine($"Resultado = {resultadoSubtracao.Subtracao()}");
                             break;
                         case 3:
