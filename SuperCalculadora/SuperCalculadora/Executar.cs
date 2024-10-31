@@ -43,8 +43,9 @@ namespace SuperCalculadora
                     switch (opcao)
                     {
                         case 1:
+                            var soma = new Somar();
                             Console.WriteLine("Opção Adição!");
-                            Console.WriteLine($"Resultado = ");
+                            Console.WriteLine($"Resultado = {soma.Soma()}");
                             break;
                         case 2:
                             var resultadoSubtracao = new Subtrair();
