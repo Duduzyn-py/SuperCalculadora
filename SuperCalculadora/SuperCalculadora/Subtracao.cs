@@ -29,7 +29,7 @@ namespace Subtracao
             Console.WriteLine("Digite o Primeiro Número da Operação:");
             int n1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o Primeiro Número da Operação:");
+            Console.WriteLine("Digite o Segundo Número da Operação:");
             int n2 = int.Parse(Console.ReadLine());
 
             return n1 - n2;
