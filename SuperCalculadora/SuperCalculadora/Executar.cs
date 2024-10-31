@@ -18,11 +18,7 @@ namespace SuperCalculadora
     {
         public static void Executor()
         {
-            //var soma = new Somar();
-            //Console.WriteLine(soma.Soma());
-
-            //var subtrair = new Subtrair();
-            //Console.WriteLine(subtrair.Subtracao(100, 30));
+            
         }
     }
 }
