@@ -27,10 +27,10 @@ namespace Subtracao
         public string Subtracao()
         {
             Console.WriteLine("Digite o Primeiro Número da Operação:");
-            int n1 = int.Parse(Console.ReadLine());
+            int n1 = TesteNumero.RecebeNumero();
 
             Console.WriteLine("Digite o Segundo Número da Operação:");
-            int n2 = int.Parse(Console.ReadLine());
+            int n2 = TesteNumero.RecebeNumero();
 
             Console.Clear();
 

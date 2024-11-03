@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|solutionrelative:supercalculadora\\executar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|c:\\users\\jessa\\desktop\\curso\\c#\\supercalculadora\\supercalculadora\\supercalculadora\\somar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|solutionrelative:supercalculadora\\somar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|c:\\users\\jessa\\desktop\\curso\\c#\\supercalculadora\\supercalculadora\\supercalculadora\\dividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|solutionrelative:supercalculadora\\dividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|c:\\users\\jessa\\desktop\\curso\\c#\\supercalculadora\\supercalculadora\\supercalculadora\\multiplicar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,11 +23,8 @@
       "RelativeMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|solutionrelative:supercalculadora\\subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|c:\\users\\jessa\\desktop\\curso\\c#\\supercalculadora\\supercalculadora\\supercalculadora\\dividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|solutionrelative:supercalculadora\\dividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|c:\\users\\jessa\\desktop\\curso\\c#\\supercalculadora\\supercalculadora\\supercalculadora\\somar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC7645-3470-495E-AAC3-01052394DD63}|SuperCalculadora\\SuperCalculadora.csproj|solutionrelative:supercalculadora\\somar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Dividir.cs",
               "DocumentMoniker": "C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\Dividir.cs",
               "RelativeDocumentMoniker": "SuperCalculadora\\Dividir.cs",
@@ -67,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Somar.cs",
               "DocumentMoniker": "C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\Somar.cs",
               "RelativeDocumentMoniker": "SuperCalculadora\\Somar.cs",
@@ -86,7 +83,7 @@
               "RelativeDocumentMoniker": "SuperCalculadora\\Subtracao.cs",
               "ToolTip": "C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\Subtracao.cs",
               "RelativeToolTip": "SuperCalculadora\\Subtracao.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T19:45:57.325Z",
               "EditorCaption": ""
@@ -99,22 +96,10 @@
               "RelativeDocumentMoniker": "SuperCalculadora\\Executar.cs",
               "ToolTip": "C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\Executar.cs",
               "RelativeToolTip": "SuperCalculadora\\Executar.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAmwDoAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T19:45:57.331Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\.gitignore",
-              "RelativeDocumentMoniker": "..\\.gitignore",
-              "ToolTip": "C:\\Users\\jessa\\Desktop\\Curso\\C#\\SuperCalculadora\\.gitignore",
-              "RelativeToolTip": "..\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-11-01T19:45:57.353Z"
             },
             {
               "$type": "Document",

@@ -15,6 +15,21 @@ namespace SuperCalculadora
         void Multiplicacao();
     }
 
+    class TesteNumero
+    {
+        public static int RecebeNumero()
+        {
+            int numero;
+
+            while (!int.TryParse(Console.ReadLine(), out numero))
+            {
+                Console.WriteLine("Por favor, insira um número válido.");
+            }
+
+            return numero;
+        }
+    }
+
     public class Executar
     {
         public static void Executor()
@@ -49,7 +64,7 @@ namespace SuperCalculadora
                             break;
                         case 2:
                             var resultadoSubtracao = new Subtrair();
-                            Console.WriteLine( resultadoSubtracao.Subtracao() );
+                            Console.WriteLine(resultadoSubtracao.Subtracao());
                             break;
                         case 3:
                             Console.WriteLine("Opção Divisão!");
