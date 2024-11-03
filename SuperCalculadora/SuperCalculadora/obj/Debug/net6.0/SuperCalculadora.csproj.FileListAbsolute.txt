@@ -28,3 +28,18 @@ C:\Users\jessica.delagnolo\OneDrive - SENAC-SC\Área de Trabalho\C#\Projetos\Sup
 C:\Users\jessica.delagnolo\OneDrive - SENAC-SC\Área de Trabalho\C#\Projetos\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.pdb
 C:\Users\jessica.delagnolo\OneDrive - SENAC-SC\Área de Trabalho\C#\Projetos\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.genruntimeconfig.cache
 C:\Users\jessica.delagnolo\OneDrive - SENAC-SC\Área de Trabalho\C#\Projetos\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\ref\SuperCalculadora.dll
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.AssemblyInfoInputs.cache
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.AssemblyInfo.cs
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.sourcelink.json
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.dll
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\refint\SuperCalculadora.dll
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.pdb
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.exe
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.deps.json
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.runtimeconfig.json
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.dll
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.pdb
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.genruntimeconfig.cache
+C:\Users\jessa\Desktop\Curso\C#\SuperCalculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\ref\SuperCalculadora.dll

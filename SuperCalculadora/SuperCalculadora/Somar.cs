@@ -27,7 +27,7 @@ namespace SuperCalculadora
             return resultado;
         }
 
-        public int Subtracao()
+        public string Subtracao()
         {
             throw new NotImplementedException();
         }

@@ -24,7 +24,7 @@ namespace Subtracao
             return 0;
         }
 
-        public int Subtracao()
+        public string Subtracao()
         {
             Console.WriteLine("Digite o Primeiro Número da Operação:");
             int n1 = int.Parse(Console.ReadLine());
@@ -32,7 +32,9 @@ namespace Subtracao
             Console.WriteLine("Digite o Segundo Número da Operação:");
             int n2 = int.Parse(Console.ReadLine());
 
-            return n1 - n2;
+            Console.Clear();
+
+            return $"{n1} - {n2} = {n1 - n2}";
         }
     }
 }

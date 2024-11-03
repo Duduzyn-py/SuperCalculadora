@@ -10,7 +10,7 @@ namespace SuperCalculadora
     public interface IOperacao
     {
         int Soma();
-        int Subtracao();
+        string Subtracao();
         void Divisao();
         void Multiplicacao();
     }
@@ -49,7 +49,7 @@ namespace SuperCalculadora
                             break;
                         case 2:
                             var resultadoSubtracao = new Subtrair();
-                            Console.WriteLine($"Resultado = {resultadoSubtracao.Subtracao()}");
+                            Console.WriteLine( resultadoSubtracao.Subtracao() );
                             break;
                         case 3:
                             Console.WriteLine("Opção Divisão!");
