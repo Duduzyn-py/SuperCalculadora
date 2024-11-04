@@ -60,7 +60,7 @@ namespace SuperCalculadora
                     {
                         case 1:
                             var soma = new Somar();
-                            Console.WriteLine($"Resultado = {soma.Soma()}");
+                            Console.WriteLine(soma.Soma());
                             break;
                         case 2:
                             var resultadoSubtracao = new Subtrair();
@@ -68,7 +68,7 @@ namespace SuperCalculadora
                             break;
                         case 3:
                             var dividir = new Dividir();
-                            Console.WriteLine($"Resultado = {dividir.Divisao()}");
+                            Console.WriteLine(dividir.Divisao());
                             break;
                         case 4:
                             Console.WriteLine("Opção Multíplicação!");
