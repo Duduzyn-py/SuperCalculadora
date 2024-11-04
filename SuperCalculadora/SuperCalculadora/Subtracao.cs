@@ -9,9 +9,9 @@ namespace Subtracao
 {
     public class Subtrair : IOperacao
     {
-        public void Divisao()
+        public string Divisao()
         {
-            
+            throw new NotImplementedException();
         }
 
         public void Multiplicacao()
@@ -33,7 +33,7 @@ namespace Subtracao
             return $"{n1} - {n2} = {n1 - n2}";
         }
 
-        string IOperacao.Soma()
+        public string Soma()
         {
             throw new NotImplementedException();
         }

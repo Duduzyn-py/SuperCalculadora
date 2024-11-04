@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio.martini\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
+    "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio.martini\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
+    "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio.martini\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
         "projectName": "SuperCalculadora",
-        "projectPath": "C:\\Users\\julio.martini\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
-        "packagesPath": "C:\\Users\\julio.martini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio.martini\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\obj\\",
+        "projectPath": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "packagesPath": "C:\\Users\\jessica.delagnolo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\julio.martini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jessica.delagnolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

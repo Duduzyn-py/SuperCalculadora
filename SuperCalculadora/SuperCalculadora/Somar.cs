@@ -8,8 +8,9 @@ namespace SuperCalculadora
 {
     public class Somar : IOperacao
     {
-        public void Divisao()
-        {   
+        public string Divisao()
+        {
+            throw new NotImplementedException();
         }
 
         public void Multiplicacao()
