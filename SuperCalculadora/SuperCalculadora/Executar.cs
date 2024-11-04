@@ -1,4 +1,5 @@
-﻿using Subtracao;
+﻿using Divisao;
+using Subtracao;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ namespace SuperCalculadora
     {
         string Soma();
         string Subtracao();
-        void Divisao();
+        string Divisao();
         void Multiplicacao();
     }
 
@@ -66,8 +67,8 @@ namespace SuperCalculadora
                             Console.WriteLine(resultadoSubtracao.Subtracao());
                             break;
                         case 3:
-                            Console.WriteLine("Opção Divisão!");
-                            Console.WriteLine($"Resultado = ");
+                            var dividir = new Dividir();
+                            Console.WriteLine($"Resultado = {dividir.Divisao()}");
                             break;
                         case 4:
                             Console.WriteLine("Opção Multíplicação!");

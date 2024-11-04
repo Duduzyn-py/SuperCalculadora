@@ -29,18 +29,27 @@ namespace Divisao
 
         public void Multiplicacao()
         {
-            // Implementação opcional para outra operação
+
         }
 
         public int Soma()
         {
-            return 0;
+            throw new NotImplementedException();
         }
 
         public string Subtracao()
         {
-            // Implementação opcional para outra operação
             return string.Empty;
+        }
+
+        void IOperacao.Divisao()
+        {
+            throw new NotImplementedException();
+        }
+
+        string IOperacao.Soma()
+        {
+            throw new NotImplementedException();
         }
     }
 }
