@@ -83,7 +83,7 @@ namespace SuperCalculadora
                     }
                     if (opcao != 5)
                     {
-                        Console.WriteLine("\n\nPressione qualquer tecla para voltar ao menu prinicpal.");
+                        Console.WriteLine("\n\nPressione qualquer tecla para voltar ao menu principal.");
                         Console.ReadKey();
                     }
                 }
