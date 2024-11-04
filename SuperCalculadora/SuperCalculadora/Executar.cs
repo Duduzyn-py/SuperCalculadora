@@ -91,7 +91,7 @@ namespace SuperCalculadora
                 {
                     Console.Clear();
                     Console.WriteLine("Opção inválida!");
-                    Console.WriteLine("\n\nPressione qualquer tecla para voltar ao menu prinicpal.");
+                    Console.WriteLine("\n\nPressione qualquer tecla para voltar ao menu principal.");
                     Console.ReadKey();
                 }
             } while (opcao != 5);
