@@ -32,24 +32,16 @@ namespace Divisao
 
         }
 
-        public int Soma()
+        public string Soma()
         {
             throw new NotImplementedException();
         }
 
         public string Subtracao()
         {
-            return string.Empty;
+            throw new NotImplementedException();
+
         }
 
-        void IOperacao.Divisao()
-        {
-            throw new NotImplementedException();
-        }
-
-        string IOperacao.Soma()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
