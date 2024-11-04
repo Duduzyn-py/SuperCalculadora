@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace SuperCalculadora
 {
     public class Multiplicar : IOperacao

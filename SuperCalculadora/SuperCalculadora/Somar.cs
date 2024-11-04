@@ -16,15 +16,17 @@ namespace SuperCalculadora
         {
         }
 
-        public int Soma()
+        public string Soma()
         {
-            int resultado = 0;
-            Console.WriteLine("Digite um número: ");
-            int n1 = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Digite outro número para somar com {n1}");
-            int n2 = int.Parse(Console.ReadLine());
-            resultado = n1 + n2;
-            return resultado;
+            Console.WriteLine("Digite o Primeiro Número da Operação:");
+            int n1 = TesteNumero.RecebeNumero();
+
+            Console.WriteLine("Digite o Segundo Número da Operação:");
+            int n2 = TesteNumero.RecebeNumero();
+
+            Console.Clear();
+
+            return $"{n1} + {n2} = {n1 + n2}";
         }
 
         public string Subtracao()

@@ -19,10 +19,6 @@ namespace Subtracao
             
         }
 
-        public int Soma()
-        {
-            return 0;
-        }
 
         public string Subtracao()
         {
@@ -35,6 +31,11 @@ namespace Subtracao
             Console.Clear();
 
             return $"{n1} - {n2} = {n1 - n2}";
+        }
+
+        string IOperacao.Soma()
+        {
+            throw new NotImplementedException();
         }
     }
 }
