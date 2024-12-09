@@ -27,9 +27,9 @@ namespace Divisao
             return $"{n1} / {n2} = {n1 / (double)n2}";
         }
 
-        public void Multiplicacao()
+        public string Multiplicacao()
         {
-
+            throw new NotImplementedException();
         }
 
         public string Soma()
