@@ -13,8 +13,9 @@ namespace SuperCalculadora
             throw new NotImplementedException();
         }
 
-        public void Multiplicacao()
+        public string Multiplicacao()
         {
+            throw new NotImplementedException();
         }
 
         public string Soma()
