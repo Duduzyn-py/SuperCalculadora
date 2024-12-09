@@ -14,12 +14,11 @@ namespace Subtracao
             throw new NotImplementedException();
         }
 
-        public void Multiplicacao()
+         public string Multiplicacao()
         {
-            
+            throw new NotImplementedException();
         }
-
-
+        
         public string Subtracao()
         {
             Console.WriteLine("Digite o Primeiro Número da Operação:");
