@@ -7,32 +7,31 @@ using System.Threading.Tasks;
 
 namespace SuperCalculadora
 {
-    public class Multiplicar : IOperacao
+     public class Multiplicar : IOperacao
     {
-
-        public int Multiplicacao()
+        public string Multiplicacao()
         {
-            int resultado = 0;
-            int n1;
-            int n2;
+            Console.WriteLine("Digite o Primeiro Número da Operação:");
+            int n1 = TesteNumero.RecebeNumero();
 
-            Console.WriteLine("Digite o primeiro numero: ");
-            n1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o segundo numero: ");
-            n2 = int.Parse(Console.ReadLine());
-            
-            if (n1  == 0)
-            {
-             Console.WriteLine("Multiplição por zero resulta em zero");
-            }
-            
-            if (n2 == 0) 
-            { 
-             Console.WriteLine("Multiplição por zero resulta em zero");
-            }
-            
-            resultado = n1 * n2;
-            return resultado;
+            Console.WriteLine("Digite o Segundo Número da Operação:");
+            int n2 = TesteNumero.RecebeNumero();
+
+            Console.Clear();
+
+            return $"{n1} x {n2} = {n1 * n2}";
+        }
+        public string Divisao()
+        {
+            throw new NotImplementedException();
+        }
+        public string Subtracao()
+        {
+            throw new NotImplementedException();
+        }
+        public string Soma()
+        {
+            throw new NotImplementedException();
         }
     }
 }
