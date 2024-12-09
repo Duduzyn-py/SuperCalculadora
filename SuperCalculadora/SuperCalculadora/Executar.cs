@@ -13,7 +13,7 @@ namespace SuperCalculadora
         string Soma();
         string Subtracao();
         string Divisao();
-        void Multiplicacao();
+        string Multiplicacao();
     }
 
     class TesteNumero
@@ -71,8 +71,8 @@ namespace SuperCalculadora
                             Console.WriteLine(dividir.Divisao());
                             break;
                         case 4:
-                            Console.WriteLine("Opção Multíplicação!");
-                            Console.WriteLine($"Resultado = ");
+                            var multiplicar = new Multiplicar();
+                            Console.WriteLine(multiplicar.Multiplicacao());
                             break;
                         case 5:
                             break;
