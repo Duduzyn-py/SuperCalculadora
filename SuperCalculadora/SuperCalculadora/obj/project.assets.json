@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+      "projectUniqueName": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
       "projectName": "SuperCalculadora",
-      "projectPath": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+      "projectPath": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
       "packagesPath": "C:\\Users\\jessica.delagnolo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\Área de Trabalho\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\obj\\",
+      "outputPath": "C:\\Users\\jessica.delagnolo\\OneDrive - SENAC-SC\\C#\\Projetos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
